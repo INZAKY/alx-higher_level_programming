@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+
+"""Define a class Square."""
+
+
 class Square:
-""" defines a square to calculate area and perimeter """
-pass
+    """Represent a square."""
+    pass
